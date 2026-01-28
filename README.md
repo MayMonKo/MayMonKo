@@ -3,7 +3,6 @@
 
 *Software Engineering • Data & AI • Full-Stack Systems • Web Development*
 
-> Building reliable systems with a touch of personality ✨
 > Turning ideas into scalable, data-driven solutions.
 
 ---
