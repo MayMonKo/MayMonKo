@@ -1,1 +1,1 @@
-![Pastel Contribution Cat](https://raw.githubusercontent.com/MayMonKo/MayMonKo/output/cat-dark.svg)
+![Pink Snake Animation](https://raw.githubusercontent.com/MayMonKo/MayMonKo/output/snake-dark.svg)
