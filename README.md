@@ -5,8 +5,6 @@
 
 > Turning ideas into scalable, data-driven solutions.
 
----
-
 ## About Me ˚₊‧꒰ა ✦ ໒꒱ ‧₊˚
 
 I’m a **computer science student & developer** focused on building **robust, data-centric applications for people** with modern web technologies and applied AI.
@@ -46,6 +44,10 @@ Data Cleaning • Feature Engineering • Analytics
 
 ---
 
+Feel free to explore my profile and contect me!
+
 * Gmail: maymonko04@gmail.com
 * Always learning, always improving
 * Open to collaboration & internships
+
+⊹₊ ˚‧︵‿₊୨୧₊‿︵‧ ˚ ₊⊹
