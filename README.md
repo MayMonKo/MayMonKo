@@ -11,6 +11,8 @@
 
 I’m a **computer science student & developer** focused on building **robust, data-centric applications for people** with modern web technologies and applied AI.
 I enjoy working at the intersection of **backend systems, analytics, and clean frontend design** where structure meets usability. I want to bring AI to those that needs assisatnce.
+
+
 ⠀⠀⠀⢠⡾⠲⠶⣤⣀⣠⣤⣤⣤⡿⠛⠿⡴⠾⠛⢻⡆⠀⠀⠀
 ⠀⠀⠀⣼⠁⠀⠀⠀⠉⠁⠀⢀⣿⠐⡿⣿⠿⣶⣤⣤⣷⡀⠀⠀
 ⠀⠀⠀⢹⡶⠀⠀⠀⠀⠀⠀⠌⢯⣡⣿⣿⣀⣸⣿⣦⢓⡟⠀⠀
@@ -20,6 +22,8 @@ I enjoy working at the intersection of **backend systems, analytics, and clean f
 ⠀⠐⠋⢻⣅⣄⢀⣀⣀⡀⠀⠯⠽⠀⢀⣀⣀⡀⠀⣤⣿⠀⠉⠀
 ⠀⠀⠴⠛⠙⣳⠋⠉⠉⠙⣆⠀⠀⢰⡟⠉⠈⠙⢷⠟⠉⠙⠂⠀
 ⠀⠀⠀⠀⠀⢻⣄⣠⣤⣴⠟⠛⠛⠛⢧⣤⣤⣀⡾⠀⠀⠀⠀⠀ 
+
+
 * Background: Design | UI / UX | ML | DL | Data Analysis
 * Interests: Full-stack development, analytics dashboards, AI integration, Data Science, Research
 
