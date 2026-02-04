@@ -7,7 +7,7 @@
 
 <p>
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=22&duration=3500&pause=900&color=FFFFFF&vCenter=true&width=780&lines=Software+Engineering+%7C+Data+%26+AI+%7C+Full-Stack+Systems+%7C+Web+Development"
+    src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=22&duration=3500&pause=900&color=FFFFFF&vCenter=true&width=780&lines=Machine+Learning+%7C+Data+%26+AI+%7C+Full-Stack+Systems+%7C+Research"
     alt="Typing Animation"
   />
 </p>
