@@ -15,7 +15,7 @@ I enjoy working at the intersection of **backend systems, analytics, and clean f
 
 ---
 
-## Tech Stack (Core)
+## Tech Stack ⋆｡‧˚ʚɞ˚‧｡⋆
 
 ### Frontend
 
