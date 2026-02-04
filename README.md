@@ -1,5 +1,5 @@
 <div align="center" style="max-width: 900px; margin: 0 auto 16px auto;">
-  <img src="./assets/Rainy day kitty.gif" style="width: 100%; height: auto;" />
+  <img src="./assets/gif" style="width: 100%; height: auto;" />
 </div>
 
 
