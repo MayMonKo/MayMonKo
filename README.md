@@ -40,17 +40,11 @@ Python • Pandas • NLP • ML Pipelines
 Data Cleaning • Feature Engineering • Analytics
 ```
 
-## (Just for fun)
-
-<!-- Pink snake animation -->
-
 ![Pink Snake Animation](https://raw.githubusercontent.com/MayMonKo/MayMonKo/output/snake-dark.svg)
 
-> A playful touch hehe
+> 𐔌՞. .՞𐦯 ᢉ𐭩.ᐟ🍮
 
 ---
-
-## Let’s Connect
 
 * Gmail: maymonko04@gmail.com
 * Always learning, always improving
