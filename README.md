@@ -1,6 +1,5 @@
 
-# Hi, I’m May!                  /\____/\
-               > •       •    <
+# Hi, I’m May! ⋆𐙚 ̊
 
 *Software Engineering • Data & AI • Full-Stack Systems • Web Development*
 
