@@ -6,10 +6,11 @@
 
 <p>
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3500&pause=800&color=9F7AEA&vCenter=true&width=700&lines=Software+Engineering+%7C+Data+%26+AI+%7C+Full-Stack+Systems+%7C+Web+Development"
+    src="https://readme-typing-svg.demolab.com?font=Nunito&weight=500&size=22&duration=3500&pause=900&color=FFFFFF&vCenter=true&width=780&lines=Software+Engineering+%7C+Data+%26+AI+%7C+Full-Stack+Systems+%7C+Web+Development"
     alt="Typing Animation"
   />
 </p>
+
 
 > Turning ideas into scalable, data-driven solutions.
 
