@@ -1,13 +1,12 @@
 <p align="center">
-  <img src="./assets/pixel art.jpg" width="360" />
+  <img src="./assets/pixel art.jpg" width="640" />
 </p>
 
 # Hi, I’m May! ⋆𐙚 ̊
 
-*Software Engineering • Data & AI • Full-Stack Systems • Web Development*
-<p align="center">
+<p>
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=800&color=9F7AEA&center=true&vCenter=true&width=650&lines=Software+Engineering+%7C+Data+%26+AI;Full-Stack+Systems+%7C+Web+Development;Building+scalable%2C+data-driven+solutions"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3500&pause=800&color=9F7AEA&vCenter=true&width=700&lines=Software+Engineering+%7C+Data+%26+AI+%7C+Full-Stack+Systems+%7C+Web+Development"
     alt="Typing Animation"
   />
 </p>
