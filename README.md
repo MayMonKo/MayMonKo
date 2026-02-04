@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/pixcelart.png" width="360" />
+</p>
 
 # Hi, I’m May! ⋆𐙚 ̊
 
