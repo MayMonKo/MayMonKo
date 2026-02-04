@@ -1,5 +1,6 @@
 
-# Hi, I’m May!
+# Hi, I’m May!                  /\____/\
+               > •       •    <
 
 *Software Engineering • Data & AI • Full-Stack Systems • Web Development*
 
@@ -7,7 +8,7 @@
 
 ---
 
-## About Me
+## About Me ˚₊‧꒰ა ✦ ໒꒱ ‧₊˚
 
 I’m a **computer science student & developer** focused on building **robust, data-centric applications for people** with modern web technologies and applied AI.
 I enjoy working at the intersection of **backend systems, analytics, and clean frontend design** where structure meets usability. I want to bring AI to those that needs assisatnce.
@@ -50,8 +51,8 @@ Data Cleaning • Feature Engineering • Analytics
 
 ---
 
-## 🤍 Let’s Connect
+## Let’s Connect
 
-* GitHub: **@MayMonKo**
+* Gmail: maymonko04@gmail.com
 * Always learning, always improving
 * Open to collaboration & internships
