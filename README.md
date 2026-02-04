@@ -61,3 +61,8 @@ Feel free to explore my profile and contect me!
 * Open to collaboration & internships
 
 ⊹₊ ˚‧︵‿₊୨୧₊‿︵‧ ˚ ₊⊹
+
+<div align="center" style="max-width: 900px; margin: 0 auto 16px auto;">
+  <img src="./assets/gif(2)" style="width: 100%; height: auto;" />
+</div>
+
