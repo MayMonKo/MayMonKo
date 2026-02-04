@@ -1,7 +1,7 @@
-
-<div style="margin-bottom: 16px;">
-  <img src="./assets/Rainy day kitty.gif" width="420" />
+<div align="center" style="max-width: 900px; margin: 0 auto 16px auto;">
+  <img src="./assets/Rainy day kitty.gif style="width: 100%; height: auto;" />
 </div>
+
 
 # Hi, I’m May! ⋆𐙚 ̊
 
