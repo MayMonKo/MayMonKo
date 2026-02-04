@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="./assets/pixel art.jpg" width="640" />
-</p>
+
+<div style="margin-bottom: 16px;">
+  <img src="./assets/Rainy day kitty.gif" width="420" />
+</div>
 
 # Hi, I’m May! ⋆𐙚 ̊
 
